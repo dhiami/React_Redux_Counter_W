@@ -18,7 +18,7 @@ function App() {
   console.log(count);
   return (
     <div className="App">
-      <h1> Redux Counter Workshop</h1>
+      <h1> Redux Counter</h1>
       <div className="counter">
         <button onClick={plus}> +</button>
         <h3> {count} </h3>
